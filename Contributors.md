@@ -11,6 +11,7 @@
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
+- [Peter Johnson] (https://github.com/toastisspecial)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
